@@ -1,0 +1,25 @@
+% This file managed by Puppet
+% Template Path: rabbitmq/templates/rabbitmq.config
+[
+
+        {rabbit, [
+                {default_user, <<"guest">>},
+                {default_pass, <<"guest">>}
+        ]},
+
+
+        {kernel, [
+        ]},
+
+        {rabbitmq_management, [
+                {listener, [
+                        {port, 15672}
+                 ]}
+        ]},
+
+
+        {rabbitmq_stomp, [
+                {tcp_listeners, [
+                        {"10.26.112.108",       61613}
+                ]}
+        ]}

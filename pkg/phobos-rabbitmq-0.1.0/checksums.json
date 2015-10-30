@@ -1,0 +1,20 @@
+{
+  "README.md": "7dadcc79b57bc263bf60aae4533db31a",
+  "Rakefile": "f37e6131fe7de9a49b09d31596f5fbf1",
+  "files/rpm/erlang-18.1-1.el6.x86_64.rpm": "ec29cb96a155bd7f4a6d66c4c2b7257b",
+  "files/rpm/rabbitmq-server-3.5.6-1.noarch.rpm": "f113462832cb69b13bca6068ef278453",
+  "files/rpm/rabbitmq-signing-key-public.asc": "e454b517476b3eaee39f09c71036fa7c",
+  "manifests/config.pp": "99932b504e3bbf1b52ba751d88b3c523",
+  "manifests/init.pp": "0d0c11b0e130d4d231ae85b546e5a402",
+  "manifests/install.pp": "9da3d082f40bf842db2bf0aae18d96d9",
+  "manifests/params.pp": "a69555bf83a0fd7e4fb49477acd2c8c4",
+  "manifests/service.pp": "30f158ec16268394f36fe829fa8691b9",
+  "manifests/user.pp": "59b3833246d22e45714b00edbd37dc99",
+  "metadata.json": "c5b7b0d4d292f930ac3939740eb49a2a",
+  "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+  "spec/spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
+  "templates/enabled_plugins.erb": "67c2113f11d6da203998fbda5e337f54",
+  "templates/rabbitmq-env.conf.erb": "d41d8cd98f00b204e9800998ecf8427e",
+  "templates/rabbitmq.config.erb": "cb98bdeff76e5285b5bde8bed1150fc0",
+  "templates/rabbitmqadmin.conf.erb": "44d4ef5cb86ab30e6127e83939ef09c4"
+}

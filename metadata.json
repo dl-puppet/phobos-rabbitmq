@@ -1,0 +1,13 @@
+{
+  "author": "david levray",
+  "dependencies": [],
+  "license": "",
+  "name": "phobos-rabbitmq",
+  "operatingsystem_support": [],
+  "project_page": "https://github.com/dl-puppet/phobos-rabbitmq",
+  "requirements": [],
+  "source": "",
+  "summary": "",
+  "tags": [],
+  "version": "0.1.0"
+}
